@@ -15,7 +15,7 @@
 DBHOST=localhost
 DBNAME=bpm
 DBUSER=root
-DBPASSWD=1!PPgeorge!1
+DBPASSWD=test
 
 echo -e "\n--- Mkay, installing now... ---\n"
 
